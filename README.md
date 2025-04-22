@@ -69,3 +69,7 @@
 > **Recomendação**:  
 > - Para aplicações em produção **com foco em velocidade**, escolha **YOLOv5**.  
 > - Para **máxima precisão e usabilidade moderna**, vá de **YOLOv8**.
+
+## Link para o colab
+[ YOLOV8 ](https://colab.research.google.com/drive/1e1iQx1GwI-EyIEw8rxAd89LeBQhvOQ2M?usp=sharing)
+[ REDE CNN ]()
