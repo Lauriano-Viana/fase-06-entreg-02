@@ -72,4 +72,4 @@
 
 ## Link para o colab
 [ YOLOV8 ](https://colab.research.google.com/drive/1e1iQx1GwI-EyIEw8rxAd89LeBQhvOQ2M?usp=sharing)
-[ REDE CNN ]()
+[ REDE CNN ](https://colab.research.google.com/drive/1nnEa6P7ollxjedinAl2nxEYyOxYaXziK?usp=sharing)
